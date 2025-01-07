@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: translation
+Version: 0.1.0
+Summary: this a library used to translate cdecl generated English-like phrases to telugu
+Home-page: https://github.com/Raphael-08/Cdecl-telugu

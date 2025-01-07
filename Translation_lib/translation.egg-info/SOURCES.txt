@@ -1,0 +1,12 @@
+setup.py
+translation/__init__.py
+translation/preprocess.py
+translation/tam_trans.py
+translation/translate.py
+translation.egg-info/PKG-INFO
+translation.egg-info/SOURCES.txt
+translation.egg-info/dependency_links.txt
+translation.egg-info/requires.txt
+translation.egg-info/top_level.txt
+translation/data/__init__.py
+translation/data/tamil_data.py
