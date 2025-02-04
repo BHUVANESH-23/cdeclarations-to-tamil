@@ -10,7 +10,7 @@ setup(
     url="https://github.com/Raphael-08/Cdecl-telugu",
     install_requires=[
         "flask==2.2.3",
-        "werkzeug==2.1.1",
+        "werkzeug>=2.2.2,<3.0",
         "google-transliteration-api",
         "requests",
         "gunicorn"
