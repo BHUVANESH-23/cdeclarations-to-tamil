@@ -11,6 +11,7 @@ setup(
     install_requires=[
         "flask==2.2.3",
         "google-transliteration-api",
-        "requests"
+        "requests",
+        "gunicorn"
     ]
 )
