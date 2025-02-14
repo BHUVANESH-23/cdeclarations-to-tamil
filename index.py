@@ -2,7 +2,7 @@ import subprocess
 import os
 from functools import lru_cache
 from flask import Flask, request, render_template, jsonify # type: ignore
-from translation.tam_trans import to_Tamil # type: ignore
+from Translation_lib.translation.tam_trans import to_Tamil # type: ignore
 
 app = Flask(__name__)
 
