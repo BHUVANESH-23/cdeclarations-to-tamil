@@ -3,3 +3,4 @@ werkzeug>=2.2.2,<3.0
 google-transliteration-api
 requests
 gunicorn
+waitress
